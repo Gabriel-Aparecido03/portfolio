@@ -1,4 +1,5 @@
 import { ArrowUpRight } from "phosphor-react";
+import { Link } from "react-router-dom";
 
 export function About() {
   return (
@@ -36,7 +37,7 @@ export function About() {
                 melhor resultado diminuindo o tempo de resposta para menos de 3 segundos e também melhor
                 experiência de usuário.
               </span>
-              <a className="flex items-center gap-1 font-light text-sm text-zinc-400 underline leading-relaxed" href="/work-experience/khanum">Ver mais <ArrowUpRight /></a>
+              <Link className="flex items-center gap-1 font-light text-sm text-zinc-400 underline leading-relaxed" to="/work-experience/khanum">Ver mais <ArrowUpRight /></Link>
             </div>
           </div>
         </div>
