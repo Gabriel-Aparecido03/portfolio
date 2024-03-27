@@ -4,7 +4,7 @@ export function JrPanfletos() {
   return (
     <div className="min-h-[calc(100vh-150px)] max-w-[760px] flex flex-col gap-8 mx-auto w-screen">
       <div className="h-[calc(100vh-100px)] flex items-center justify-center">
-        <h1 className="text-zinc-100 font-bold text-6xl text-center ">Communities</h1>
+        <h1 className="text-zinc-100 font-bold text-6xl text-center ">JrPanfletos</h1>
       </div>
       <div>
         <h2 className="font-bold text-2xl">Visão geral</h2>

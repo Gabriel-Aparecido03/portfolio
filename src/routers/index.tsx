@@ -8,6 +8,7 @@ import { Communities } from "../pages/projects/communities";
 import { Contact } from "../pages/contact";
 import { Articles } from "../pages/articles";
 import { JrPanfletos } from "../pages/projects/jr-panfletos";
+import { BoxDelivery } from "../pages/projects/box-delivery";
 
 export const router = createBrowserRouter([
   {
@@ -40,7 +41,7 @@ export const router = createBrowserRouter([
       },
       {
         path: '/projects/box-delivery',
-        element: <Communities />
+        element: <BoxDelivery />
       },
       {
         path: '/projects/jr-panfletos',
