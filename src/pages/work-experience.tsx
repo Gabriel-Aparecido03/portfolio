@@ -46,13 +46,13 @@ export function WorkExperience() {
                 </p>
               </div>
               <div className='flex items-start gap-3 mt-6'>
-                <span className='font-bold'>01</span>
+                <span className='font-bold'>02</span>
                 <p className='font-light text-base text-zinc-400 leading-relaxed'>
                   <strong>Premiação e reconhecimento de empresa em um evento.</strong> Tive a feliz surpresa de ter recebido a premiação pelas meu destaque , devido principalmente a skill da comunição e trabalho em equipe, mas também sem deixar para trás as hard skills
                 </p>
               </div>
               <div className='flex items-start gap-3 mt-6'>
-                <span className='font-bold'>01</span>
+                <span className='font-bold'>03</span>
                 <p className='font-light text-base text-zinc-400 leading-relaxed'>
                   <strong>Melhorias em processo ,trazendo implementação de testes unitários.</strong> Em conversa com a equipe comentei que seria extremamente interessante a implementação de testes unitários , apoiando meu argumento em vídeo ,artigos e projetos open source do mercado .
                 </p>
